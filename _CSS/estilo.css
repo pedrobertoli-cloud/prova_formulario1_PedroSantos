@@ -1,0 +1,75 @@
+hr {
+    border: 10px solid rgb(139, 2, 2);
+    ;
+    border-radius: 10px;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(139, 2, 2);
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(139, 2, 2);
+}
+
+.form1 {
+    background-color: lightblue;
+    height: 30px;
+}
+
+.cadastro {
+    background-color: goldenrod;
+    border-radius: 7px;
+    border-color: purple;
+    padding: 6px;
+    border-width: 3px;
+}
+
+.text1 {
+    resize: none;
+    width: 700px;
+    height: 60px;
+    background-color: lightblue;
+}
+
+.field {
+    color: blue;
+}
+
+.field1 {
+    color: purple;
+    border-width: 5px;
+    border-color: purple;
+}
+
+.fieldtext {
+    resize: none;
+    width: 200px;
+    height: 50px;
+}
+
+.ex4 {
+    resize: none;
+    width: 300px;
+    height: 50px;
+    border-color: red;
+}
+
+
+.pesquisa {
+    width: 160px;
+    height: 50px;
+    border-radius: 10px;
+    border-color: red;
+    color: red;
+    background-color: black;
+}
+
+.field2 {
+    border-color: gold;
+    color:rgb(1, 80, 1) ;
+
+}
+
